@@ -27,7 +27,6 @@ footer{
     align-items: center;
     flex-direction: column;
     justify-content: center;
-
 }
 #logo img{
     height: 80px;
@@ -104,7 +103,7 @@ footer{
     padding: 20px 0;
     font-size: 30px;
     font-weight: 700;
-    filter: drop-shadow(5px 5px 10px white);
+    /* filter: drop-shadow(5px 5px 10px white); */
     border-bottom: solid 2px white;
 }
 .regrasJogo{
@@ -268,7 +267,7 @@ footer p {
         padding: 10px 0;
         font-size: 25px;
         font-weight: 700;
-        filter: drop-shadow(5px 5px 10px white);
+        /* filter: drop-shadow(5px 5px 10px white); */
         border-bottom: solid 1px white;
     }
     .regrasJogo{
@@ -356,7 +355,7 @@ footer p {
         display: block;
         background-color: rgb(116, 114, 114);
         box-shadow: 0 10px 5px white;
-        position: relative;
+        /* position: absolute; */
         left: -920px;
         transition-duration: 1.5s;
     }
@@ -404,7 +403,7 @@ footer p {
         padding: 10px 0;
         font-size: 25px;
         font-weight: 700;
-        filter: drop-shadow(5px 5px 10px white);
+        /* filter: drop-shadow(5px 5px 10px white); */
         border-bottom: solid 1px white;
     }
     .regrasJogo{
